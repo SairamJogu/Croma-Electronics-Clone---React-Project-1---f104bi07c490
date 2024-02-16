@@ -1,0 +1,288 @@
+.descriptionbox {
+  background: #191919;
+}
+
+.sp-outer-box {
+  width: 95%;
+
+  display: flex;
+  color: white;
+
+  margin: auto;
+}
+
+
+#sp-right-box {
+  width: 42.8%;
+  margin-top: 10%;
+  margin-left: 4.2%;
+  display: inline-block;
+}
+
+#sp-left-box {
+  width: 42%;
+  height: 80%;
+
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 10%;
+  vertical-align: top;
+}
+
+/* right box css */
+#sp-product-name {
+  font-size: 140%;
+  line-height: 130%;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 1%;
+  padding: 1% 3%;
+  overflow: hidden;
+  text-align: left;
+}
+
+.sp-product-id {
+  color: rgb(60, 60, 60);
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 1rem;
+  padding: 1% 3%;
+}
+
+#sp-review-text {
+  font-size: 80%;
+  color: #666666;
+  vertical-align: text-top;
+  margin-left: 10px;
+}
+
+#sp-price-box {
+  margin-top: 2%;
+  text-align: left;
+}
+
+#sp-discounted-amount {
+  font-size: 150%;
+  color: white;
+  margin-left: 20px;
+}
+
+.sp-mrp-text {
+  font-size: 90%;
+  padding-left: 2.5%;
+  vertical-align: text-top;
+  color: white;
+}
+
+#sp-original-amount {
+  font-size: 80%;
+  color: #666666;
+  vertical-align: text-top;
+}
+
+.sp-tax-text {
+  color: white;
+  font-size: 80%;
+  vertical-align: text-top;
+}
+
+.sp-emi-amount {
+  padding-right: 3%;
+  font-size: 80%;
+  vertical-align: text-top;
+  text-align: center;
+}
+
+#sp-emi-info {
+  font-size: 90%;
+  color: #666666;
+  padding-left: 2%;
+  margin: 1%;
+}
+
+.sp-display-flex {
+  display: flex;
+  flex-direction: row;
+  padding-left: 2.5%;
+  width: 120%;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: normal;
+  margin-bottom: 2%;
+}
+
+.sp-extra-savings {
+  margin-left: 1%;
+  font-size: 120%;
+  font-family: PTSerif-Bold;
+}
+
+.sp-offer-number-text {
+  margin-left: 1%;
+  font-size: 80%;
+  color: #66666666;
+}
+
+.sp-view-all-offers {
+  margin-left: 1%;
+  font-size: 80%;
+}
+
+.sp-opt-list {
+  width: 70%;
+  height: 23%;
+  margin: 1% 2% 4% 8%;
+  /* background-color: #333333; */
+}
+
+hr {
+  color: #66666666;
+  width: 95%;
+}
+
+a {
+  color: #49a5a2;
+  text-decoration: none;
+}
+
+label {
+  display: block;
+  margin: 2%;
+}
+
+.sp-warranty-period-text {
+  font-size: 90%;
+  color: #333333;
+}
+
+.sp-info-icon {
+  vertical-align: middle;
+}
+
+.sp-add-to-cart-btn {
+  width: 80%;
+  margin: 4% 12%;
+  padding: 1%;
+}
+
+.sp-add-to-cart {
+  width: 45%;
+  height: 15%;
+  border-radius: 25px;
+  border: none;
+  background: #12daa8;
+  color: black;
+}
+
+.sp-buy-now {
+  width: 40%;
+  height: 15%;
+  margin-left: 8%;
+  border-radius: 25px;
+  border: none;
+  color: black;
+  background: #12daa8;
+}
+
+.sp-add-to-cart:hover {
+  box-shadow: 2% #7c7979;
+}
+
+.sp-rupee-icon {
+  padding-left: 1.4%;
+  width: 2%;
+  height: 1%;
+}
+
+/* image zoomer */
+
+.sp-container {
+  width: 75%;
+
+  position: relative;
+  margin: 20% 22%;
+}
+
+#sp-image {
+  width: 100%;
+  height: auto;
+  margin-top: -100px;
+}
+
+.sp-lens {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  cursor: pointer;
+  /* border: 2px solid black; */
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.sp-result {
+  position: absolute;
+  left: calc(100% + 50px);
+  top: 30px;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  background-repeat: no-repeat;
+  opacity: 0;
+}
+
+.key-features {
+  border: 2px solid #353535;
+  padding: 10px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.key-features ul li {
+  margin-top: 1rem;
+  letter-spacing: 1px;
+}
+
+.container2 {
+  padding: 1rem;
+  margin-top: 1rem;
+  width: 75%;
+
+
+  border: 2px solid #353535;
+  margin-left: 9rem;
+  color: white;
+  text-align: left;
+
+}
+.container2 h2{
+  color: white;
+  margin-left: 2rem;
+  margin-top: 1.2rem;
+}
+
+
+.container3 {
+  padding: 1rem;
+  margin-top: 2rem;
+width: 75%;
+
+
+  border: 2px solid #353535;
+  margin-left: 9rem;
+  color: white;
+  text-align: left;
+
+}
+.container3 h2{
+  color: white;
+  margin-left: 2rem;
+  margin-top: 1.2rem;
+}
+.productdetailstar{
+  color: #12daa8;
+  margin-left: 20px;
+  text-align: left;
+}
+

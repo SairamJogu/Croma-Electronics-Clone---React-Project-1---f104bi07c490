@@ -1,0 +1,26 @@
+.favouritelistproductcart{
+    background: #191919;
+    padding: 1rem;
+    height: 2000px;
+    text-align: center;
+    color: white;
+}
+
+.favouritewhislistimages{
+    margin: auto;
+}
+
+.favouriteorderscart{
+    padding: 1rem;
+    background: #191919;
+    height: 100vh;
+}
+.favouriteorderscart{
+    text-align: center;
+    color: white;
+}
+.favouritelistproducts{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}

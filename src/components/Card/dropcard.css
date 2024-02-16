@@ -1,0 +1,81 @@
+
+
+.dropcontainer{
+  width:350px;
+}
+.imagecontainer{
+  text-align: center;
+  position: relative;
+  background: #393939;
+  border-radius: 1rem;
+
+}
+
+
+ .imagecontainer img{
+  width:260px;
+  height:260px;
+ 
+  padding: 1rem;
+  cursor: pointer;
+}
+ .dropproduct-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 4px;
+  padding-bottom: 3px;
+  box-sizing: border-box;
+  background: #191919;
+}
+.dropproduct-name {
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+  text-align: left;
+}
+.dropproduct-name p {
+  font-size: 16px;
+  color: white;
+  font-weight: 800;
+  height: 56px;
+  overflow: hidden;
+}
+.dropratings{
+  color: #12daa8;
+  font-size: 1rem;
+
+}
+.dropproduct-name span {
+  font-weight: bolder;
+ 
+  color: white;
+  margin-top: 5px;
+}
+.droptool{
+  color: white;
+  background: #191919;
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+
+}
+ .droptooltext{
+  font-size: 1rem;
+  position: absolute;
+}
+
+.dropheart {
+  position: absolute;
+  top: 13px;
+  right: 10px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-right:30px;
+  color: white;
+}
+.dropheart:hover{
+  color: rgb(66, 248, 194);;
+}
+
+/* style={{ width: "350px", height: "380px", paddingLeft: "3rem", background: "#191919" }} */

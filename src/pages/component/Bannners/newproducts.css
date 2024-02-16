@@ -1,0 +1,26 @@
+.productcomingsoon{
+    text-align: center;
+    padding: 2rem;
+}
+.productcomingsoon img{
+    width:30%;
+}
+
+.dealscorner{
+    background-color: #191919;
+}
+.dealscornerheading{
+    color: white;
+    padding: 2rem;
+    text-align: center;
+
+}
+.dealscornercontainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2rem;
+
+
+}
