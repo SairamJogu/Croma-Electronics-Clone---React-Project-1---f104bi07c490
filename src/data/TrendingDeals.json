@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1690868723/Croma%20Assets/Communication/Mobiles/Images/275641_itcybi.png?tr=w-480",
+        "name": "Redmi 12",
+        "title": "Redmi 12 (6GB RAM, 128GB, Pastel Blue)",
+        "newPrice": "₹10,499.00",
+        "prevPrice": "₹12,499.00",
+        "star": "AiFillStar" 
+    },
+    {
+        "id": 2,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1696519939/Croma%20Assets/Small%20Appliances/Fryers%20and%20Grills/Images/274978_0_tbabfo.png?tr=w-480",
+        "name": "Pigeon Air Fryer",
+        "title": "Pigeon Healthifry 4.2L 1200 Watt Digital Air Fryer with Air Circulation Technology (Green)",
+        "newPrice": "₹3,199.00",
+        "prevPrice": "₹7,995.00",
+        "star": "AiFillStar" 
+    },
+    {
+        "id": 3,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124939/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262565_0_gsz0tr.png?tr=w-480",
+        "name": "SONY WH-1000XM5",
+        "title": "SONY WH-1000XM5 Bluetooth Headset with Mic (Auto Noise Cancellation Optimizer, Over-Ear, Black)",
+        "newPrice": "₹26,990.00",
+        "prevPrice": "₹34,990.00",
+        "star": "AiFillStar" 
+    },
+    {
+        "id": 4,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683556744/Croma%20Assets/Computers%20Peripherals/Laptop/Images/266653_0_owzana.png?tr=w-480",
+        "name": "ASUS Vivobook 15",
+        "title": "ASUS Vivobook 15 Intel Core i3 11th Gen (15.6 inch, 8GB, 512GB, Windows 11 Home, MS Office 2021, Intel UHD, Full HD IPS Display, Grey, X515EA-EZ311WS)",
+        "newPrice": "₹33,990.00",
+        "prevPrice": "₹60,990.00",
+        "star": "AiFillStar" 
+    },
+    {
+        "id": 5,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697017811/Croma%20Assets/Small%20Appliances/Health%20Care/Images/300313_0_zg87rp.png?tr=w-480",
+        "name": "ZEBRONICS Cordless Wet Trimmer",
+        "title": "ZEBRONICS Cordless Wet Trimmer for Beard, Moustache & Hair Clipping with 3 Length Settings for Men (90mins Runtime, Charging LED Indicator, White and Black)",
+        "newPrice": "₹399.00",
+        "prevPrice": "₹999.00",
+        "star": "AiFillStar" 
+    },
+    {
+        "id": 6,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1698306735/Croma%20Assets/Wearable/Wearable%20Devices/Images/302546_a22dos.png?tr=w-480",
+        "name": "FIRE-BOLTT Ninja Call Pro Smartwatch",
+        "title": "FIRE-BOLTT Ninja Call Pro Smartwatch with Bluetooth Calling (42.9mm HD Display, IP67 Water Resistant, Black Strap)",
+        "newPrice": "₹1,199.00",
+        "prevPrice": "₹17,199.00",
+        "star": "AiFillStar" 
+    },
+    {
+        "id": 7,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1704305284/Croma%20Assets/Large%20Appliances/Refrigerator/Images/300735_wbncdx.png?tr=w-480",
+        "name": "Croma Refrigerator",
+        "title": "Croma 205 Litres 3 Star Direct Cool Single Door Refrigerator with Inverter Compressor (CRLR206DID250503, Bloom Wine Red)",
+        "newPrice": "₹15,990.00",
+        "prevPrice": "₹20,000.00",
+        "star": "AiFillStar" 
+    }
+]

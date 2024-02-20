@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Accessories_29_hblqmx.jpg?tr=w-480",
+        "name": "Accessories",
+        "title": "Accessories"
+    },
+    {
+        "id": 2,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Home_Appliances_31_kfl0o8.jpg?tr=w-480",
+        "name": "Home Appliances",
+        "title": "Home Appliances"
+    },
+    {
+        "id": 3,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Computers._tablets_40_so61uj.jpg?tr=w-480",
+        "name": "Computers and Tablets",
+        "title": "Computers and Tablets"
+    },
+    {
+        "id": 4,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Phones_Wearables_43_hc3kui.jpg?tr=w-480",
+        "name": "Phone and Wearables",
+        "title": "Phone and Wearables"
+    },
+    {
+        "id": 5,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Kitchen_Appliances_22_moahza.jpg?tr=w-480",
+        "name": "Kitchen Appliances",
+        "title": "Kitchen Appliances"
+    },
+    {
+        "id": 6,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Audio_Video_19_qhxzxm.jpg?tr=w-480",
+        "name": "Audio & Video",
+        "title": "Audio & Video"
+    },
+    {
+        "id": 7,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Cameras_89_ymrktl.jpg?tr=w-480",
+        "name": "Camera & Accesories",
+        "title": "Camera & Accesories"
+    },
+    {
+        "id": 8,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Gaming_47_kxju4n.jpg?tr=w-480",
+        "name": "Gaming",
+        "title": "Gaming"
+    },
+    {
+        "id": 9,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628695096/Croma%20Assets/CMS/top_category/L0-Smart-Devices_iemuxq.jpg?tr=w-480",
+        "name": "Smart Devices",
+        "title": "Smart Devices"
+    },
+    {
+        "id": 10,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240751/Croma%20Assets/CMS/top_category/Televisions_11_ckrtnk.jpg?tr=w-480",
+        "name": "Televisions & Accessories",
+        "title": "Televisions & Accessories"
+    },
+    {
+        "id": 11,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628695096/Croma%20Assets/CMS/top_category/LO-Health-_-Fitness_jcjmh9.jpg?tr=w-480",
+        "name": "Health & Fitness",
+        "title": "Health & Fitness"
+    },
+    {
+        "id": 12,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1628240750/Croma%20Assets/CMS/top_category/Grooming_Wellness_47_kecmqo.jpg?tr=w-480",
+        "name": "Grooming & Personal Care",
+        "title": "Grooming & Personal Care"
+    }
+]

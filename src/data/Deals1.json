@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694229541/Croma%20Assets/Communication/Mobiles/Images/300504_l1jj76.png?tr=w-480",
+        "name": "Oppo A38",
+        "title": "Oppo A38(4GB RAM, 128GB, Glowing Gold)",
+        "newPrice": "₹10,999.00",
+        "prevPrice": "₹15,999.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 2,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1704793257/Croma%20Assets/Computers%20Peripherals/Storage%20Devices/Images/233145_0_qdrylw.png?tr=w-480",
+        "name": "Kingston USB",
+        "title": "Kingston DataTraveler Exodia 32GB USB 3.2 Flash Drive (200 MB/s Read Speed, DTX/32GB, Black)",
+        "newPrice": "₹429.00",
+        "prevPrice": "₹550.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 3,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701615250/Croma%20Assets/Entertainment/Television/Images/300448_0_jin8eg.png?tr=w-480",
+        "name": "Xiaomi TV",
+        "title": "Xiaomi A Series 100 cm (40 inch) Full HD LED Smart Google TV with Dolby Audio (2023 model)",
+        "newPrice": "₹20,990.00",
+        "prevPrice": "₹29,999.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 4,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697625095/Croma%20Assets/Communication/Mobiles/Images/269146_ltv0e6.png?tr=w-480",
+        "name": "OnePlus 11R 5G",
+        "title": "OnePlus 11R 5G (8GB RAM, 128GB, Galactic Silver)",
+        "newPrice": "₹37,999.00",
+        "prevPrice": "₹39,999.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 5,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701192435/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/265843_0_f57bcl.png?tr=w-480",
+        "name": "SAMSUNG Washing Machine",
+        "title": "SAMSUNG 7 Kg 5 Star Inverter Fully Automatic Top Load Washing Machine (WA70BG4545BGTL, Diamond Drum, Light Grey)",
+        "newPrice": "₹19,490.00",
+        "prevPrice": "₹24,000.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 6,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697625893/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/262685_dcj3gn.png?tr=w-480",
+        "name": "LLOYD Split AC",
+        "title": "LLOYD 5 in 1 Convertible 1.25 Ton 3 Star Inverter Split AC with Anti-Viral Dust Filter (2023 Model, Copper Condenser, GLS15I3FWSEV)",
+        "newPrice": "₹31,490.00",
+        "prevPrice": "₹54,990.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 7,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697624424/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/212367_worvrd.png?tr=w-480",
+        "name": "LG Microwave Oven",
+        "title": "LG 21L Convection Microwave Oven with Intellowave Technology (Glossy Black)",
+        "newPrice": "₹10,390.00",
+        "prevPrice": "₹14,599.00",
+        "star": "AiFillStar"
+    }
+]

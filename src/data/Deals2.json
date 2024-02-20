@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392766/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_Redmi_7Feb24_cztmc0.png?tr=w-1024",
+        "name": "Redmi 13 C"
+    },
+    {
+        "id": 2,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392767/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_JBL_7Feb24_lcmjio.png?tr=w-1024",
+        "name": "JBL Earphones & Headphones"
+    },
+    {
+        "id": 3,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392767/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_FC_7Feb24_yhul1e.png?tr=w-1024",
+        "name": "Fans & Coolers"
+    },
+    {
+        "id":4,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392766/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_Tvs_7Feb24_q2bnob.png?tr=w-1024",
+        "name": "Smart TVs"
+    },
+    {
+        "id":5,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392766/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_MemoryCards_7Feb24_haanrl.png?tr=w-1024",
+        "name": "Memory Cards"
+    },
+    {
+        "id": 6,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392766/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_Laptops_7Feb24_adepzs.png?tr=w-1024",
+        "name": "Laptops"
+    },
+    {
+        "id": 7,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392767/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_Tablets_7Feb24_jnzday.png?tr=w-1024",
+        "name": "Best Tablets"
+    },
+    {
+        "id": 8,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392767/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_godrej_8Feb24_zdbprx.png?tr=w-1024",
+        "name": "Godrej ACs"
+    },
+    {
+        "id": 9,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392767/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_Fireboltt_7Feb24_s5d3mn.png?tr=w-1024",
+        "name": "Fire-Boltt SmartWatch"
+    },
+    {
+        "id": 10,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392767/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_WM_7Feb24_hm6poc.png?tr=w-1024",
+        "name": "Samsung Washing Machines"
+    },
+    {
+        "id": 11,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392766/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_Refri_7Feb24_ydxwjc.png?tr=w-1024",
+        "name": "Refrigerator"
+    },
+    {
+        "id": 12,
+        "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707392766/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Bestselling%20Deals%20HP/Feb/9th/HP_BestsellingDeals_M_O_7Feb24_fukaif.png?tr=w-1024",
+        "name": "Microwaves & Ovens"
+    }
+]

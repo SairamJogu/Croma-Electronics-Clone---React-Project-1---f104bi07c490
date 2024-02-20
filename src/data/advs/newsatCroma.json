@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707375685/Croma%20Assets/CMS/New%20at%20croma/HP_4Split_NewAtCroma_godrejAC_8Feb2024_vbvweo.png?tr=w-720",
+        "name": "Inverter AC"
+    },
+    {
+        "id": 2,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1706851593/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/02022024/HP_4Split_NewAtCroma_Firebollt_2Feb24_gjdowe.png?tr=w-720",
+        "name": "Fire-Boltt Smartwatch"
+    },
+    {
+        "id": 3,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707130670/Croma%20Assets/CMS/LP%20Page%20Banners/2024/BAU/HP_4Split_NewAtCroma_LenovoLaptop_5Feb2024_fesyab.png?tr=w-720",
+        "name": "Lenovo IdeaPad"
+    },
+    {
+        "id": 4,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707130674/Croma%20Assets/CMS/LP%20Page%20Banners/2024/BAU/HP_4Split_NewAtCroma_HP_5Feb2024_ognuxv.png?tr=w-720",
+        "name": "HP Spectre"
+    },
+    {
+        "id": 5,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707374943/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/08022024/HP_4Split_NewAtCroma_Redmi_8Feb2024_okitjx.png?tr=w-720",
+        "name": "Redmi Note 13 Series"
+    },
+    {
+        "id": 6,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1706937018/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/03022024/HP_4Split_NewAtCroma_215LRefri_3feb2024_k7duda.png?tr=w-720",
+        "name": "Croma Refrigerator"
+    },
+    {
+        "id": 7,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1704976027/Croma%20Assets/CMS/Homepage%20Banners/New%20at%20croma/2024/HP_4Split_NewAtCroma_BoseQC_11Jan2024_u6vgke.png?tr=w-720",
+        "name": "Bose Headphones"
+    },
+    {
+        "id": 8,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707374942/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/08022024/HP_4Split_NewAtCroma_OppoA59_8Feb2024_o7diqy.png?tr=w-720",
+        "name": "Oppo A59 5G"
+    },
+    {
+        "id": 9,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1704954801/Croma%20Assets/CMS/Homepage%20Banners/New%20at%20croma/2024/HP_4Split_NewAtCroma_Vivo_7jan2024_jpqunt.png?tr=w-720",
+        "name": "Vivo X100 Series"
+    },
+    {
+        "id": 10,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707462237/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/09022024/HP_4Split_NewAtCroma_blaupunktTV_9Feb24_rzawjj.png?tr=w-720",
+        "name": "Blaupunkt TV"
+    }
+]

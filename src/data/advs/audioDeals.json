@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697624146/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/256472_hukhah.png?tr=w-480",
+        "name": "Realme Buds Air 3",
+        "title": "realme Buds Air 3 RMA2105 TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, 30 Hours Playtime, Starry Blue)",
+        "newPrice": "₹2,224.00",
+        "prevPrice": "₹5,999.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 2,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697624184/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/256473_m5dhba.png?tr=w-480",
+        "name": "Realme Buds Air 3",
+        "title": "realme Buds Air 3 RMA2105 TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, 30 Hours Playtime, Galaxy White)",
+        "newPrice": "₹2,224.00",
+        "prevPrice": "₹5,999.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 3,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697021638/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/275377_0_qgjwsa.png?tr=w-480",
+        "name": "boAt Airdopes 100",
+        "title": "boAt Airdopes 100 TWS Earbuds with Environmental Noise Cancellation (IPX4 Water Resistant, ASAP Charge, Opal Black)",
+        "newPrice": "₹899.00",
+        "prevPrice": "₹4,490.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 4,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697622730/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/247655_epvwtx.png?tr=w-480",
+        "name": "boAt Airdopes 148",
+        "title": "boAt Airdopes 148 TWS Earbuds with Environmental Noise Cancellation (IPX4 Sweat & Water Resistant, 42 Hours Playtime, Black)",
+        "newPrice": "₹999.00",
+        "prevPrice": "₹4,490.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 5,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1665447656/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/251619_0_pwtgeu.png?tr=w-480",
+        "name": "Croma 50W RMS Bluetooth Party Speaker",
+        "title": "Croma 50W RMS Bluetooth Party Speaker with Wired Mic (Bass Booster Sound, 2.1 Channel, Black)",
+        "newPrice": "₹5,790.00",
+        "prevPrice": "₹10,000.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 6,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697623309/Croma%20Assets/Communication/Speakers%20and%20Media%20Players/Images/220804_srbbl4.png?tr=w-480",
+        "name": "Croma 1400W Bluetooth Party Speaker",
+        "title": "Croma 1400W Bluetooth Party Speaker (Dynamic Bass Boost, Black)",
+        "newPrice": "₹16,490.00",
+        "prevPrice": "₹25,000.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 7,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697624835/Croma%20Assets/Entertainment/Sound%20Bars/Images/248344_yzipml.png?tr=w-480",
+        "name": "boAt Aavante Bar 1150 60W Bluetooth Soundbar",
+        "title": "boAt Aavante Bar 1150 60W Bluetooth Soundbar with Remote (Surround Sound, 2.0 Channel, Black)",
+        "newPrice": "₹3,499.00",
+        "prevPrice": "₹9,990.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 8,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697621683/Croma%20Assets/Entertainment/Sound%20Bars/Images/224037_fac42s.png?tr=w-480",
+        "name": "SONY HT-S20R 400W Bluetooth Home Theatre",
+        "title": "SONY HT-S20R 400W Bluetooth Home Theatre with Remote (Dolby Digital, 5.1 Channel, Black)",
+        "newPrice": "₹17,700.00",
+        "prevPrice": "₹19,900.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 9,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1665446481/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/214741_0_ayqzgw.png?tr=w-480",
+        "name": "Amazon Echo Dot (3rd Gen) ",
+        "title": "amazon Echo Dot (3rd Gen) with Built-in Alexa Smart Wi-Fi Speaker (Controls Smart Devices, Black)",
+        "newPrice": "₹2,999.00",
+        "prevPrice": "₹3,499.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 10,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697621503/Croma%20Assets/Communication/Speakers%20and%20Media%20Players/Images/262670_sn6mys.png?tr=w-480",
+        "name": "pTron Sonor Evo 5W Portable Bluetooth Speaker",
+        "title": "pTron Sonor Evo 5W Portable Bluetooth Speaker (Integrated Music & Call Control, Mono Channel, Red)",
+        "newPrice": "₹399.00",
+        "prevPrice": "₹1,600.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 11,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697626320/Croma%20Assets/Communication/Speakers%20and%20Media%20Players/Images/273214_a7kr8r.png?tr=w-480",
+        "name": "boAt Stone 358 10W Portable Bluetooth Speaker",
+        "title": "boAt Stone 358 10W Portable Bluetooth Speaker (IPX7 Water Resistant, Multi-Compatibility Modes, Mono Speaker, Black)",
+        "newPrice": "₹1,399.00",
+        "prevPrice": "₹3,490.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 12,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697624680/Croma%20Assets/Entertainment/Home%20Theatres%20and%20Audio%20Systems/Images/207113_udmg1p.png?tr=w-480",
+        "name": "SONY SA-D40 4.1 80W Multimedia Speaker",
+        "title": "SONY SA-D40 4.1 80W Multimedia Speaker (Surround Sound, 4.1 Channel, Black)",
+        "newPrice": "₹10,490.00",
+        "prevPrice": "₹11,990.00",
+        "star": "AiFillStar"
+    },
+    {
+        "id": 13,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701199484/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/275802_0_dritwm.png?tr=w-480",
+        "name": "SONY SA-D40 4.1 80W Multimedia Speaker",
+        "title": "LAPCARE LUS-003 6W Multimedia Speaker (7 Color LED Light, Black)",
+        "newPrice": "₹479.00",
+        "prevPrice": "₹1,299.00",
+        "star": "AiFillStar"
+    }
+]

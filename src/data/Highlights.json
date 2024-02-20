@@ -1,0 +1,56 @@
+{   
+    "Highlights1":[
+        {
+            "id": 1,
+            "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701503911/Croma%20Assets/CMS/Homepage%20Banners/Highlights/2023/02-12-2023/Croma_banner1_sleex7.png?tr=w-720",
+            "name": "HDFC NeuCard"
+        },
+        {
+            "id": 2,
+            "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1701181979/Croma%20Assets/CMS/LP%20Page%20Banners/2023/Gifting%20Catalogue/29-11-2023/HP%20Highlights/HP_Highlights_WeddingAppliances_27Nov23_wc2qhh.jpg??tr=w-720",
+            "name": "Wedding Special"
+        },
+        {
+            "id": 3,
+            "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1690220194/Croma%20Assets/CMS/LP%20Page%20Banners/2023/UNBOXED/UPDATE/2407/Unboxed_banner_24July23_njx30f.png?tr=w-720",
+            "name": "Unboxed by Croma"
+        },
+        {
+            "id": 4,
+            "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683109301/Croma%20Assets/CMS/LP%20Page%20Banners/2023/01_HP_BUGS_LP_BUGS/HP%20Bugs/Highlight_aw8gip.png?tr=w-720",
+            "name": "Creator Studio"
+        },
+        {
+            "id": 5,
+            "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1700058607/Croma%20Assets/CMS/LP%20Page%20Banners/2023/Gift%20Card/HP_Highlights_GiftCard_29March2023_hkbb2t.jpg?tr=w-720",
+            "name": "Gift Card"
+        },
+        {
+            "id": 6,
+            "img":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1668170086/Croma%20Assets/CMS/HP_Highlights_E-Waste_11Nov2022_2_z19bgl.png?tr=w-720",
+            "name": "E-waste Disposal"
+        }
+    ],
+    "Highlight2":[
+        {
+            "id": 1,
+            "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1698744556/Croma%20Assets/CMS/LP%20Page%20Banners/2023/Express%20Delivery/31st%20Oct/HP%20Highlights/HP_Highlights_ExpressDelivery_19Oct2023_dcusqj.jpg?tr=w-720",
+            "name": "Croma Express Delivery"
+        },
+        {
+            "id": 2,
+            "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1690798700/Croma%20Assets/CMS/Homepage%20Banners/Highlight2/HP_Highlights_Indulge_31July2023_sc84ea.png?tr=w-720",
+            "name": "Croma Indulge"
+        },
+        {
+            "id": 3,
+            "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683800225/Croma%20Assets/CMS/LP%20Page%20Banners/2023/01_HP_BUGS_LP_BUGS/HP%20Bugs/HP_Highlights_EMIStore_22Feb2023_qvegoj.jpg?tr=w-720",
+            "name": "EMI scheme"
+        },
+        {
+            "id": 4,
+            "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1691126309/Croma%20Assets/CMS/LP%20Page%20Banners/2023/Deals%20Corner/HP_Highlight_DOTW_2Aug2023_2_mdna8l.jpg?tr=w-720",
+            "name": "Deals of the day"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1705211249/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Jan/14012024/HP_4Split_Appleatcroma_15Pro_14jan2024_tcufse.png?tr=w-720",
+        "name": "iPhone 15 Pro"
+    },
+    {
+        "id": 2,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1707374941/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/08022024/HP_4Split_Appleatcroma_Watch_8Feb2024_bvy3jq.png?tr=w-720",
+        "name": "Watch Series 9"
+    },
+    {
+        "id": 3,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1706851591/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/02022024/HP_4Split_Appleatcroma_iPads_2Feb2024_pwjm2f.png?tr=w-720",
+        "name": "iPads"
+    },
+    {
+        "id": 4,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1705556733/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Jan/18012024/HP_4Split_Appleatcroma_Airpods_18jan2024_tgktbk.png?tr=w-720",
+        "name": "AirPods Pro 2"
+    },
+    {
+        "id": 5,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1706851592/Croma%20Assets/CMS/LP%20Page%20Banners/2024/Sanity/HP/Feb/02022024/HP_4Split_Appleatcroma_Macbooks_2Feb2024_klgavr.png?tr=w-720",
+        "name": "Macbooks"
+    }
+]
